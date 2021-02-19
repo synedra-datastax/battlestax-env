@@ -2,3 +2,7 @@
 command = "npm run build"
 functions = "functions"
 publish = "build"
+
+[template.environment]
+ASTRA_DB_USER = "battlestax_user"
+ASTRA_DB_PASSWORD = "battlestax_password1"
