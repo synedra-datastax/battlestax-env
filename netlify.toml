@@ -6,3 +6,4 @@ publish = "build"
 [template.environment]
 ASTRA_DB_USER = "battlestax_user"
 ASTRA_DB_PASSWORD = "battlestax_password1"
+ASTRA_DB_NAME = "battlestax"
